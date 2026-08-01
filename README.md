@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KaustubhaChhanda/submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/KaustubhaChhanda/submissions/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/KaustubhaChhanda/submissions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,8 +41,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KaustubhaChhanda/submissions/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KaustubhaChhanda/submissions/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
