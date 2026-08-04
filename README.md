@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/KaustubhaChhanda/submissions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/KaustubhaChhanda/submissions/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
