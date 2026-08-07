@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KaustubhaChhanda/submissions/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/KaustubhaChhanda/submissions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/KaustubhaChhanda/submissions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0213-house-robber-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -139,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/KaustubhaChhanda/submissions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
 |  |
