@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KaustubhaChhanda/submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/KaustubhaChhanda/submissions/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/KaustubhaChhanda/submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0128-longest-consecutive-sequence) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KaustubhaChhanda/submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
