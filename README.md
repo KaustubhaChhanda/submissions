@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KaustubhaChhanda/submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0213-house-robber-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KaustubhaChhanda/submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0054-spiral-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
