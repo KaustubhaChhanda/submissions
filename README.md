@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/KaustubhaChhanda/submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KaustubhaChhanda/submissions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
@@ -148,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KaustubhaChhanda/submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/KaustubhaChhanda/submissions/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KaustubhaChhanda/submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/KaustubhaChhanda/submissions/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
 |  |
