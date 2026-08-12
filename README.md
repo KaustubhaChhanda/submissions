@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/KaustubhaChhanda/submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KaustubhaChhanda/submissions/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/KaustubhaChhanda/submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
