@@ -1,27 +1,20 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        Integer[][] memo = new Integer[prices.length][2];
-        return dfs(prices, 0, 0, memo);
-    }
-
-    private int dfs(int[] prices, int index, int isHolding, Integer[][] memo) {
-        if (index == prices.length) {
+        if (prices.length == 1) {
             return 0;
         }
 
-        if (memo[index][isHolding] != null) {
-            return memo[index][isHolding];
+        int buy = prices[0];
+        int profit = 0;
+
+        for (int i = 1; i < prices.length; i++) {
+            if (prices[i] < buy) {
+                buy = prices[i];
+            } else if (prices[i] - buy > profit) {
+                profit = prices[i] - buy;
+            }
         }
 
-        int skip = dfs(prices, index + 1, isHolding, memo);
-        int action = Integer.MIN_VALUE;
-
-        if (isHolding == 0) {
-            action = -prices[index] + dfs(prices, index + 1, 1, memo);
-        } else {
-            action = prices[index];
-        }
-
-        return memo[index][isHolding] = Math.max(skip, action);
+        return profit;
     }
 }
