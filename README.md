@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KaustubhaChhanda/submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/KaustubhaChhanda/submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/KaustubhaChhanda/submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KaustubhaChhanda/submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KaustubhaChhanda/submissions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0344-reverse-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KaustubhaChhanda/submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/KaustubhaChhanda/submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KaustubhaChhanda/submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KaustubhaChhanda/submissions/tree/master/0242-valid-anagram) |
