@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KaustubhaChhanda/submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaustubhaChhanda/submissions/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KaustubhaChhanda/submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/KaustubhaChhanda/submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0680-valid-palindrome-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KaustubhaChhanda/submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KaustubhaChhanda/submissions/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/KaustubhaChhanda/submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/KaustubhaChhanda/submissions/tree/master/0409-longest-palindrome) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KaustubhaChhanda/submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/KaustubhaChhanda/submissions/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaustubhaChhanda/submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Graph Theory
 |  |
 | ------- |
