@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/KaustubhaChhanda/submissions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/KaustubhaChhanda/submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1768-merge-strings-alternately](https://github.com/KaustubhaChhanda/submissions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
