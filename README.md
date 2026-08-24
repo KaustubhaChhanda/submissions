@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/KaustubhaChhanda/submissions/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/KaustubhaChhanda/submissions/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/KaustubhaChhanda/submissions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KaustubhaChhanda/submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/KaustubhaChhanda/submissions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/KaustubhaChhanda/submissions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
