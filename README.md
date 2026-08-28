@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/KaustubhaChhanda/submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/KaustubhaChhanda/submissions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1480-running-sum-of-1d-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/KaustubhaChhanda/submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KaustubhaChhanda/submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/KaustubhaChhanda/submissions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/KaustubhaChhanda/submissions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/KaustubhaChhanda/submissions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/KaustubhaChhanda/submissions/tree/master/0645-set-mismatch) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
 | [1189-maximum-number-of-balloons](https://github.com/KaustubhaChhanda/submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/KaustubhaChhanda/submissions/tree/master/1512-number-of-good-pairs) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KaustubhaChhanda/submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
