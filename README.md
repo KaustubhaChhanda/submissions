@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/KaustubhaChhanda/submissions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1314-matrix-block-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/1314-matrix-block-sum) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1480-running-sum-of-1d-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/KaustubhaChhanda/submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KaustubhaChhanda/submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/KaustubhaChhanda/submissions/tree/master/0724-find-pivot-index) |
+| [1314-matrix-block-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Two Pointers
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KaustubhaChhanda/submissions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KaustubhaChhanda/submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0867-transpose-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/1314-matrix-block-sum) |
 ## Recursion
 |  |
 | ------- |
