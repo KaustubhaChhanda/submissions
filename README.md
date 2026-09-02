@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaustubhaChhanda/submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KaustubhaChhanda/submissions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KaustubhaChhanda/submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/KaustubhaChhanda/submissions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KaustubhaChhanda/submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KaustubhaChhanda/submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KaustubhaChhanda/submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
