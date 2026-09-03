@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/KaustubhaChhanda/submissions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/KaustubhaChhanda/submissions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/KaustubhaChhanda/submissions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/KaustubhaChhanda/submissions/tree/master/0724-find-pivot-index) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaustubhaChhanda/submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/KaustubhaChhanda/submissions/tree/master/0704-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
 ## Graph Theory
 |  |
