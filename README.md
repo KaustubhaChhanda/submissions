@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KaustubhaChhanda/submissions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/KaustubhaChhanda/submissions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/KaustubhaChhanda/submissions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/KaustubhaChhanda/submissions/tree/master/0443-string-compression) |
 | [0535-encode-and-decode-tinyurl](https://github.com/KaustubhaChhanda/submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/KaustubhaChhanda/submissions/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0796-rotate-string) |
