@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/KaustubhaChhanda/submissions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/KaustubhaChhanda/submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/KaustubhaChhanda/submissions/tree/master/0704-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
 ## Graph Theory
@@ -433,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KaustubhaChhanda/submissions/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KaustubhaChhanda/submissions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
