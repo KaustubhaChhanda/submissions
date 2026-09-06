@@ -1,8 +1,7 @@
 class Solution {
     public boolean search(int[] nums, int target) {
         int pivot = findPivot(nums);
-        System.out.println(pivot);
-
+        
         return binarySearch(nums, target, 0, pivot - 1) || binarySearch(nums, target, pivot, nums.length - 1);
     }
 
