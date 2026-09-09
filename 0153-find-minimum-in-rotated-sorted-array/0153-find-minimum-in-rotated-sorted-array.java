@@ -1,9 +1,5 @@
 class Solution {
     public int findMin(int[] nums) {
-        return nums[findPivot(nums)];
-    }
-
-    private int findPivot(int[] nums) {
         int low = 0, high = nums.length - 1;
 
         while (low < high) {
@@ -16,6 +12,6 @@ class Solution {
             }
         }
 
-        return low;
+        return nums[low];
     }
 }
