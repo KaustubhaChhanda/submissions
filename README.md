@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/KaustubhaChhanda/submissions/tree/master/0881-boats-to-save-people) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KaustubhaChhanda/submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/1314-matrix-block-sum) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/KaustubhaChhanda/submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KaustubhaChhanda/submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/KaustubhaChhanda/submissions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KaustubhaChhanda/submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/KaustubhaChhanda/submissions/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KaustubhaChhanda/submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/KaustubhaChhanda/submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/KaustubhaChhanda/submissions/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
