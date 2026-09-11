@@ -5,13 +5,16 @@ class Solution {
 
         for (int num : nums) {
             currSum += num;
-            maxSum = Math.max(maxSum, currSum);
+
+            if (currSum > maxSum) {
+                maxSum = currSum;
+            }
 
             if (currSum < 0) {
                 currSum = 0;
             }
         }
 
-        return maxSum;   
+        return maxSum;
     }
 }
