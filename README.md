@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/KaustubhaChhanda/submissions/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KaustubhaChhanda/submissions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2769-find-the-maximum-achievable-number](https://github.com/KaustubhaChhanda/submissions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KaustubhaChhanda/submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KaustubhaChhanda/submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KaustubhaChhanda/submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
