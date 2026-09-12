@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KaustubhaChhanda/submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KaustubhaChhanda/submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/KaustubhaChhanda/submissions/tree/master/1768-merge-strings-alternately) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/KaustubhaChhanda/submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KaustubhaChhanda/submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KaustubhaChhanda/submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/KaustubhaChhanda/submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/KaustubhaChhanda/submissions/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
