@@ -1,11 +1,9 @@
 class Solution {
     public int scoreOfString(String s) {
         int sum = 0;
-        int prev = s.charAt(0);
 
-        for (int i = 1; i < s.length(); i++) {
-            sum += Math.abs(prev - s.charAt(i));
-            prev = s.charAt(i);
+        for (int i = 0; i < s.length() - 1; i++) {
+            sum += Math.abs(s.charAt(i) - s.charAt(i + 1));
         }
 
         return sum;
