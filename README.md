@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/KaustubhaChhanda/submissions/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/KaustubhaChhanda/submissions/tree/master/1854-maximum-population-year) |
+| [1920-build-array-from-permutation](https://github.com/KaustubhaChhanda/submissions/tree/master/1920-build-array-from-permutation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaustubhaChhanda/submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KaustubhaChhanda/submissions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KaustubhaChhanda/submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/KaustubhaChhanda/submissions/tree/master/0068-text-justification) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/KaustubhaChhanda/submissions/tree/master/1920-build-array-from-permutation) |
 ## Counting
 |  |
 | ------- |
