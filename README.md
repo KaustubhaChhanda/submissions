@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/KaustubhaChhanda/submissions/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KaustubhaChhanda/submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/1314-matrix-block-sum) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1470-shuffle-the-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/KaustubhaChhanda/submissions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KaustubhaChhanda/submissions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/KaustubhaChhanda/submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaustubhaChhanda/submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
+| [1004-max-consecutive-ones-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1004-max-consecutive-ones-iii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KaustubhaChhanda/submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Longest Increasing Subsequence
 |  |
