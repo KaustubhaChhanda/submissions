@@ -1,55 +1,24 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        for (int i = 0; i < 9; i++) {
-            Set<Character> set = new HashSet<>();
+        boolean[][] rows = new boolean[9][9];
+        boolean[][] cols = new boolean[9][9];
+        boolean[][] boxes = new boolean[9][9];
 
-            for (int j = 0; j < 9; j++) {
-                if (set.contains(board[i][j])) {
-                    return false;
-                }
+        for (int row = 0; row < 9; row++) {
+            for (int col = 0; col < 9; col++) {
+                char c = board[row][col];
+                int boxIndex = (row / 3) * 3 + (col / 3);
 
-                if (board[i][j] != '.') {
-                    set.add(board[i][j]);
-                }
-            }
-        }
-
-        for (int j = 0; j < 9; j++) {
-            Set<Character> set = new HashSet<>();
-
-            for (int i = 0; i < 9; i++) {
-                if (set.contains(board[i][j])) {
-                    return false;
-                }
-
-                if (board[i][j] != '.') {
-                    set.add(board[i][j]);
-                }
-            }
-        }
-
-        for (int i = 0; i < 9; i += 3) {
-            for (int j = 0; j < 9; j += 3) {
-                if (!verifyCube(board, i, j)) {
-                    return false;
-                }
-            }
-        }
-
-        return true;
-    }
-
-    private boolean verifyCube(char[][] board, int r, int c) {
-        Set<Character> set = new HashSet<>();
-
-        for (int i = r; i < r + 3; i++) {
-            for (int j = c; j < c + 3; j++) {
-                if (set.contains(board[i][j])) {
-                    return false;
-                }
-                
-                if (board[i][j] != '.') {
-                    set.add(board[i][j]);
+                if (c != '.') {
+                    int value = c - '1';
+                    
+                    if (rows[row][value] || cols[col][value] || boxes[boxIndex][value]) {
+                        return false;
+                    } else {
+                        rows[row][value] = true;
+                        cols[col][value] = true;
+                        boxes[boxIndex][value] = true;
+                    }
                 }
             }
         }
