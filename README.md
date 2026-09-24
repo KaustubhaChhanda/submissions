@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/KaustubhaChhanda/submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KaustubhaChhanda/submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KaustubhaChhanda/submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KaustubhaChhanda/submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/KaustubhaChhanda/submissions/tree/master/1768-merge-strings-alternately) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -543,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
