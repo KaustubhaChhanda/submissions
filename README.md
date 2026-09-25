@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/KaustubhaChhanda/submissions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/KaustubhaChhanda/submissions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/KaustubhaChhanda/submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KaustubhaChhanda/submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/KaustubhaChhanda/submissions/tree/master/0535-encode-and-decode-tinyurl) |
