@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KaustubhaChhanda/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KaustubhaChhanda/submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0189-rotate-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KaustubhaChhanda/submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/KaustubhaChhanda/submissions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KaustubhaChhanda/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0268-missing-number) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KaustubhaChhanda/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KaustubhaChhanda/submissions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
