@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KaustubhaChhanda/submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaustubhaChhanda/submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/KaustubhaChhanda/submissions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KaustubhaChhanda/submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaustubhaChhanda/submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/KaustubhaChhanda/submissions/tree/master/0404-sum-of-left-leaves) |
 | [3310-remove-methods-from-project](https://github.com/KaustubhaChhanda/submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KaustubhaChhanda/submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaustubhaChhanda/submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/KaustubhaChhanda/submissions/tree/master/0404-sum-of-left-leaves) |
 ## Greedy
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KaustubhaChhanda/submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/KaustubhaChhanda/submissions/tree/master/0404-sum-of-left-leaves) |
 | [3310-remove-methods-from-project](https://github.com/KaustubhaChhanda/submissions/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
