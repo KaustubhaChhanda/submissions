@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KaustubhaChhanda/submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KaustubhaChhanda/submissions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/KaustubhaChhanda/submissions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/KaustubhaChhanda/submissions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/KaustubhaChhanda/submissions/tree/master/0383-ransom-note) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KaustubhaChhanda/submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaustubhaChhanda/submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/KaustubhaChhanda/submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/KaustubhaChhanda/submissions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KaustubhaChhanda/submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaustubhaChhanda/submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/KaustubhaChhanda/submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/KaustubhaChhanda/submissions/tree/master/0404-sum-of-left-leaves) |
 | [3310-remove-methods-from-project](https://github.com/KaustubhaChhanda/submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KaustubhaChhanda/submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaustubhaChhanda/submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/KaustubhaChhanda/submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/KaustubhaChhanda/submissions/tree/master/0404-sum-of-left-leaves) |
 ## Greedy
 |  |
@@ -578,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/KaustubhaChhanda/submissions/tree/master/2396-strictly-palindromic-number) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/KaustubhaChhanda/submissions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
