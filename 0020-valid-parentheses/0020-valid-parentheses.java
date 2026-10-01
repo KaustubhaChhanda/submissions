@@ -1,31 +1,32 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
+        char[] stack = new char[s.length()];
+        int index = 0;
 
         for (char ch : s.toCharArray()) {
             if (ch == '(' || ch == '{' || ch == '[') {
-                stack.push(ch);
+                stack[index++] = ch;
             } else if (ch == ')') {
-                if (!stack.isEmpty() && stack.peek() == '(') {
-                    stack.pop();
+                if (index > 0 && stack[index - 1] == '(') {
+                    stack[--index] = '\u0000';
                 } else {
                     return false;
                 }
             } else if (ch == '}') {
-                if (!stack.isEmpty() && stack.peek() == '{') {
-                    stack.pop();
+                if (index > 0 && stack[index - 1] == '{') {
+                    stack[--index] = '\u0000';
                 } else {
                     return false;
                 }
             } else {
-                if (!stack.isEmpty() && stack.peek() == '[') {
-                    stack.pop();
+                if (index > 0 && stack[index - 1] == '[') {
+                    stack[--index] = '\u0000';
                 } else {
                     return false;
                 }
             }
         }
 
-        return stack.isEmpty();
+        return index == 0;
     }
 }
