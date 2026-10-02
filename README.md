@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/KaustubhaChhanda/submissions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaustubhaChhanda/submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
+| [0843-guess-the-word](https://github.com/KaustubhaChhanda/submissions/tree/master/0843-guess-the-word) |
 | [0867-transpose-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/KaustubhaChhanda/submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0796-rotate-string) |
+| [0843-guess-the-word](https://github.com/KaustubhaChhanda/submissions/tree/master/0843-guess-the-word) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/KaustubhaChhanda/submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/KaustubhaChhanda/submissions/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/0523-continuous-subarray-sum) |
+| [0843-guess-the-word](https://github.com/KaustubhaChhanda/submissions/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KaustubhaChhanda/submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
+| [0843-guess-the-word](https://github.com/KaustubhaChhanda/submissions/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
 ## Stack
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0843-guess-the-word](https://github.com/KaustubhaChhanda/submissions/tree/master/0843-guess-the-word) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -564,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/KaustubhaChhanda/submissions/tree/master/0374-guess-number-higher-or-lower) |
+| [0843-guess-the-word](https://github.com/KaustubhaChhanda/submissions/tree/master/0843-guess-the-word) |
 ## Pigeonhole Principle
 |  |
 | ------- |
