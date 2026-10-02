@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KaustubhaChhanda/submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KaustubhaChhanda/submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/KaustubhaChhanda/submissions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/KaustubhaChhanda/submissions/tree/master/0049-group-anagrams) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KaustubhaChhanda/submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaustubhaChhanda/submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
 |  |
@@ -586,5 +589,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/KaustubhaChhanda/submissions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
