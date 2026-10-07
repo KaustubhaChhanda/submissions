@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KaustubhaChhanda/submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/KaustubhaChhanda/submissions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/KaustubhaChhanda/submissions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KaustubhaChhanda/submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/KaustubhaChhanda/submissions/tree/master/3925-concatenate-array-with-reverse) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KaustubhaChhanda/submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3838-weighted-word-mapping](https://github.com/KaustubhaChhanda/submissions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/KaustubhaChhanda/submissions/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaustubhaChhanda/submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/2390-removing-stars-from-a-string) |
+| [3838-weighted-word-mapping](https://github.com/KaustubhaChhanda/submissions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/KaustubhaChhanda/submissions/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
 |  |
